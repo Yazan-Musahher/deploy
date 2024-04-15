@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51b9a544.css",
+    "main.js": "/static/js/main.aca14049.js",
+    "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
+    "static/media/vitality-shot.png": "/static/media/vitality-shot.a73a97ce1482feec10bd.png",
+    "static/media/jordbar.jpg": "/static/media/jordbar.fa90b449c09d0f5d9a85.jpg",
+    "static/media/map02.png": "/static/media/map02.f840fb04d5bd9c5cd2d0.png",
+    "static/media/Vitality-Shot2.jpg": "/static/media/Vitality-Shot2.73fe159cdc4d34369211.jpg",
+    "static/media/varer.jpeg": "/static/media/varer.f9c41ef10c74de1ae687.jpeg",
+    "static/media/Banana.jpg": "/static/media/Banana.db437a372fa89b7b1159.jpg",
+    "static/media/middag3.jpeg": "/static/media/middag3.eb47a96993b05cb21eb4.jpeg",
+    "static/media/middag1.jpeg": "/static/media/middag1.3fa36e3881a712aa3797.jpeg",
+    "static/media/basic-image.svg": "/static/media/basic-image.e0ef586af56657300516fc6297654ce0.svg",
+    "index.html": "/index.html",
+    "main.51b9a544.css.map": "/static/css/main.51b9a544.css.map",
+    "main.aca14049.js.map": "/static/js/main.aca14049.js.map",
+    "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51b9a544.css",
+    "static/js/main.aca14049.js"
+  ]
+}
